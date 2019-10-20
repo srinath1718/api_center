@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-####Git testing####
+
 
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'api_center.settings')
